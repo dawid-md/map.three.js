@@ -1,3 +1,9 @@
 .App {
   text-align: center;
+  height: 100%;
+  background-color: rgb(144, 134, 134);
+}
+
+.mainDiv {
+  height: 100%;
 }
